@@ -1,0 +1,46 @@
+
+@font-face {
+    font-family: 'Pine';
+    src: url(/Fonts/Pine.otf);
+}
+
+#Inner h1 {
+    font-size: 6em;
+    font-family: Pine;
+    margin-bottom: 0.5;
+}
+
+#hero {
+    width: 100vw;
+    height: 80vh;
+    background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url(/images/Cover.jpg);
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+} 
+
+
+#Inner {
+
+    padding: 3em;
+    padding-top: 8em;
+    margin: 0;
+    box-sizing: border-box;
+    width: 90%;
+    height: 100%;
+    max-width: 2000px;
+    margin: 0 auto;
+    display: inline-block;
+    align-items: center;
+    justify-content: center; 
+    color: rgb(255, 255, 255);
+    
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 5px 10%;
+}
