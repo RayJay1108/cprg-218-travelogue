@@ -3,12 +3,12 @@
 
 @font-face {
     font-family: 'Pine';
-    src: url(/Fonts/Pine.otf);
+    src: url(./Fonts/Pine.woff);
 }
 
 @font-face {
     font-family: 'longin';
-    src: url(/Fonts/Longin.otf);
+    src: url(/Fonts/Longin.woff);
 }
 
 #Inner h1 {
