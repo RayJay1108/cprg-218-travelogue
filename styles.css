@@ -96,6 +96,7 @@ main {
     grid-template-columns: minmax(0, 1fr);
 }
 
+
 main h2 {
     font-family: Pine;
     font-size: 3em;
@@ -119,6 +120,8 @@ main h2 {
     max-width: 600px;
     font-size: 120%;
 }
+
+
 
 
 
@@ -173,6 +176,10 @@ main h2 {
     float: left;
     padding-right: 50px;
     padding-top: 10%;
+}
+
+#big h2 {
+    padding-left: 6.2em;
 }
 
 
