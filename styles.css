@@ -89,11 +89,13 @@ header ul li a {
 
 main {
     font-family: longin;
+    font-size: 80%;
     max-width: 1500px;
     margin: 0 auto;
     display: grid;
     grid-template-rows: auto 1fr auto;
     grid-template-columns: minmax(0, 1fr);
+    
 }
 
 
